@@ -1,0 +1,24 @@
+{
+  "name": "order-management",
+  "version": "1.0.0",
+  "description": "express(nodejs) restful api service for order management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MH1024/nodejs-order-managemant.git"
+  },
+  "author": "sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MH1024/nodejs-order-managemant/issues"
+  },
+  "homepage": "https://github.com/MH1024/nodejs-order-managemant#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
